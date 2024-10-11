@@ -8,7 +8,9 @@
     width: 170px;
     height: 235px;
     padding: 1em;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: "Architects Daughter", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
 
 #cookies-consent-box .icon i {
