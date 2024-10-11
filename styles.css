@@ -6,7 +6,7 @@
     color: white;
     border-radius: 1em;
     width: 170px;
-    height: 200px;
+    height: 235px;
     padding: 1em;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
@@ -34,4 +34,13 @@
     text-align: center;
     
     width: 90%;
+    margin-top: .25em;
+}
+
+#cookies-consent-box .button.red {
+    background-color: indianred;
+}
+
+#cookies-consent-box .button.green {
+    background-color: #70b470;
 }
